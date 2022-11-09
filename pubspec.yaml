@@ -1,5 +1,5 @@
 name: clube_ludico_flutter
-description: A new Flutter project.
+description: Cardápio do Clube Lúdico.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -38,6 +38,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   http: ^0.13.5
   xml: ^6.1.0
+  url_launcher: ^6.1.6
 
 dev_dependencies:
   flutter_test:
